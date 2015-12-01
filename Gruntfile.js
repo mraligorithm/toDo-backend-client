@@ -1,5 +1,5 @@
-var JS_VENDOR_PATH = 'js/vendor',
-    CSS_VENDOR_PATH = 'css/vendor';
+var JS_VENDOR_PATH = 'public/js/vendor',
+    CSS_VENDOR_PATH = 'public/css/vendor';
 
 module.exports = function(grunt) {
 
