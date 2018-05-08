@@ -1,4 +1,4 @@
 app:
-  image: jmenga/todobackend-client
+  image: aligorithm/todobackend-client
   ports:
     - 3000:3000
